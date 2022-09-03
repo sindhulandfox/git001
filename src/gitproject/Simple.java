@@ -13,6 +13,10 @@ package gitproject;
 			
 
 		}
+		public void empaddress() {
+			System.out.println("address");
+
+		}
 		public static void main(String [] args) {
 			Simple e = new Simple();
 			e.empId();
