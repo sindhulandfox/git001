@@ -13,6 +13,9 @@ package gitproject;
 			
 
 		}
+		public void empLocation() {
+			System.out.println("location");
+}
 		public static void main(String [] args) {
 			Simple e = new Simple();
 			e.empId();
