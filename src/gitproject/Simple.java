@@ -13,6 +13,12 @@ package gitproject;
 			
 
 		}
+	private void empage() {
+		
+
+	}	
+		
+		
 		public void empLocation() {
 			System.out.println("location");
 }
@@ -26,4 +32,4 @@ package gitproject;
 	}
 
 
-}
+	}
